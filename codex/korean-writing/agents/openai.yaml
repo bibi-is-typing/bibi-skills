@@ -1,0 +1,4 @@
+interface:
+  display_name: "한국어 글 다듬기"
+  short_description: "원문의 사실과 목소리를 살려 한국어 문장을 자연스럽게 다듬기"
+  default_prompt: "$korean-writing 이 글의 사실과 말투를 살리면서 자연스럽게 다듬어줘."

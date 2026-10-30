@@ -1,0 +1,4 @@
+interface:
+  display_name: "PM 프레임"
+  short_description: "문제 정의부터 지표와 실행 계획까지 정리하는 6단계 PM 프레임"
+  default_prompt: "$pm-frame 이 기획의 문제 정의부터 한 번에 하나씩 질문해줘."
